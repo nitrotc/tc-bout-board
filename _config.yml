@@ -1,5 +1,6 @@
 title: TC BOUT BOARD
 description: A Wrestling Bout Board Application for Youth Meets.
+layout: default
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-architect
