@@ -1,3 +1,4 @@
+
 ![Sample Board Image](https://github.com/nitrotc/tc-bout-board/blob/master/docs/board_sample.png)
 
 ## Introduction
