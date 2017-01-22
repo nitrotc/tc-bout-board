@@ -1,4 +1,5 @@
 ![Sample Board Image](https://github.com/nitrotc/tc-bout-board/blob/master/docs/board_sample.png)
+
 ## Introduction
 "TC BOUT BOARD" was created to help wrestling teams hosting home meets display an active queue of matches or bouts. 
 The application is designed to leverage an XGA resolution projector to display a dynamic bout board on a 
