@@ -23,6 +23,7 @@ Image should be roughly 86x80 pixels in GIF format.
 Name the file bb_team_image.gif
 
 ## Install
+
 - *If you are unfamiliar with installing python or python applications, try reading the windows install example here:*
    [tc-bout-board Windows Install](https://github.com/nitrotc/tc-bout-board/blob/master/docs/tc-bout-board-win-install.pdf)
 - Install Python 2.7.12 environment that includes Tkinter.
@@ -38,6 +39,7 @@ each mat.
 There are a few steps to getting the board up and running.  Typically, you would run the application, 
 tell it how many matches are on each mat, "initialize the meet", display the board and add or remove bouts as
 needed.
+
  1. Run TC Bout Board e.g. $ python /usr/local/dzdtsoftware/tc_bout_board/tc_bout_board.py
  2. From the "Get Started" menu, click "Setup Meet".
  3. In the "Information Area" select the number of mats running in your tournament.
@@ -46,9 +48,11 @@ needed.
  6. From the "Get Started" menu, click "Display Board"  
  
 **What do I do when a bout finishes?**
+
 - Highlight the finished bout and click "Remove Match"
  
 **What do I do if I need to add in a bout?**
+
 - Say...bout 101a needs to be inserted above bout 101.
 - "Add Match at Selection" inserts above the selected bout.
 - Highlight the bout where you want to insert the new one.
